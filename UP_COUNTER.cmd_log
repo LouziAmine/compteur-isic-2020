@@ -1,0 +1,2 @@
+xst -ise "C:/Xilinx92i/compteur/compteur.ise" -intstyle ise -ifn UP_COUNTER.xst -ofn UP_COUNTER.syr
+xst -ise "C:/Users/mohammed/Desktop/compteur/compteur.ise" -intstyle ise -ifn UP_COUNTER.xst -ofn UP_COUNTER.syr

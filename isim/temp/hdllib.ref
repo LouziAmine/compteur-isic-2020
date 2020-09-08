@@ -1,0 +1,4 @@
+AR up_counter behavioral C:/Xilinx92i/compteur/UP_COUNTER.vhd sub00/vhpl01 1599435559
+AR counter_test_selfcheck_beh testbench_arch C:/Xilinx92i/compteur/counter_test_selfcheck_beh.vhd sub00/vhpl03 1599234335
+EN up_counter NULL C:/Xilinx92i/compteur/UP_COUNTER.vhd sub00/vhpl00 1599435558
+EN counter_test_selfcheck_beh NULL C:/Xilinx92i/compteur/counter_test_selfcheck_beh.vhd sub00/vhpl02 1599234334
